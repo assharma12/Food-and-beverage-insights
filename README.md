@@ -12,4 +12,5 @@ Resume Project Challenge #6 conducted by codebasics
   The Task is to extract the Meaningful insight from the Survey That can guide Actionable strategies and decision to the Their Marketing team and Chief Marketing Officer
 
 ⭐ Approach
+   
    In this project i used PowerBI for Dashboarding and SQL for querying the Questions to get the demanded question I get the key insights to guide the Future requierment
