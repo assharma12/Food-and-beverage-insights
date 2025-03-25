@@ -15,4 +15,4 @@ Resume Project Challenge #6 conducted by codebasics
    
    In this project i used PowerBI for Dashboarding and SQL for querying the Questions to get the demanded question I get the key insights to guide the Future requierment
 
- ![Image Alt]https://github.com/assharma12/Food-and-beverage-insights/blob/d53c13d78465b941073855235c3f23d3054bdfbc/Screenshot%20Dashboard.png
+https://github.com/assharma12/Food-and-beverage-insights/blob/main/Screenshot%20Dashboard.png?raw=true
